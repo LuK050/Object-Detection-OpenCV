@@ -1,2 +1,2 @@
-# -Object-Detection-OpenCV
+# Object-Detection-OpenCV
 Простая программа для обнаружения лиц и котов на выделенной области
